@@ -1,0 +1,5 @@
+yarn add react react-dom
+yarn add -D webpack webpack-cli ts-loader typescript
+yarn add -D @types/react @types/react-dom
+npx tsc --init
+yarn add -D html-webpack-plugin copy-webpack-plugin
